@@ -1,0 +1,26 @@
+// Always calculate the memory to use.
+
+>>> Functions without arguments neigther return values.
+
+void functionName();
+
+functionName();
+
+void functionName() {
+	// logic
+}
+
+>>> Functions with arguments but without return values. --> void function
+
+void functionName(float);
+
+functionName(float);
+
+void functionName(float) {
+	// logic
+}
+
+
+>>> Functions with arguments with return values.
+
+float functionName(int, float);
