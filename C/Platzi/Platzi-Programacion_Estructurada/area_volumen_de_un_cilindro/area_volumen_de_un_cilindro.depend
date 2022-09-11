@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662689548 source:/home/cv/Documents/Platzi-Programacion_Estructurada/area_volumen_de_un_cilindro/main.c
+	<stdio.h>
+	<stdlib.h>
+
