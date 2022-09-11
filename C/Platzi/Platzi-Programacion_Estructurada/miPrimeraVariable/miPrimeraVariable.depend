@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662559136 source:/home/cv/Documents/Platzi-Programacion_Estructurada/miPrimeraVariable/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1662559351 source:/home/cv/Documents/Platzi-Programacion_Estructurada/miPrimeraVariable/archivoClase.c
+	<stdio.h>
+
