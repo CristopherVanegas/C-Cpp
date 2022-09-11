@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662782819 source:/home/cv/Documents/Platzi-Programacion_Estructurada/ejercicioOpAsignacionAndIncremento/main.c
+	<stdio.h>
+	<stdlib.h>
+
