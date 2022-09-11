@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662600039 source:/home/cv/Documents/Platzi-Programacion_Estructurada/intercambiar_numeros_ingresados/main.c
+	<stdio.h>
+	<stdlib.h>
+
