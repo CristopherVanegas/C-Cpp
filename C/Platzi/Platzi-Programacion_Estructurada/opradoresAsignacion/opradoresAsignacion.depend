@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662780511 source:/home/cv/Documents/Platzi-Programacion_Estructurada/opradoresAsignacion/main.c
+	<stdio.h>
+	<stdlib.h>
+
