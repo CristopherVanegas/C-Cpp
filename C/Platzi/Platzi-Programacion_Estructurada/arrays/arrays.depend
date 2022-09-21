@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663640638 source:/home/cv/Documents/C-Cpp/C/Platzi/Platzi-Programacion_Estructurada/arrays/main.c
+	<stdio.h>
+	<stdlib.h>
+
