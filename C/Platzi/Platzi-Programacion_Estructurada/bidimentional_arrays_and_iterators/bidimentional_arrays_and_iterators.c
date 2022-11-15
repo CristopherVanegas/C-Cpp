@@ -20,7 +20,7 @@ void exercise()
     matrix[0][2] = 8;
     matrix[0][3] = 9;
     matrix[0][4] = 10;
-
+    
     matrix[1][0] = 10;
     matrix[1][1] = 5;
     matrix[1][2] = 6;
