@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <stdio.h>  // to use input/output functions.
 #include <stdlib.h>
-#include <string.h>
+#include <string.h> // needed for fgets().
 
 int main() {
     classChallenge();
@@ -12,9 +12,9 @@ void classChallenge() {
     char nameC[50];
     int size;
     printf("Ingregar nombre y obtener valor usando la funcion fgets(): ");
-    fgets(nameC, 50, stdin);    // get the string using fgets(variable, size, from where? stdin=keyboard)
+    fgets(nameC, 50, stdin);    // get the string using fgets(variable, size, from where? stdin=keyboard).
 
-    size = strlen(nameC);
+    size = strlen(nameC);   // strlen() gets the size (its type is number).
     printf("\nEl size de la cadena es: %i\n", size-1);
 
     printf("El nombre invertido es: \n");
@@ -31,10 +31,10 @@ void classExercise() {
     char nameC[50];
     int size;
     printf("Ingregar nombre y obtener valor usando la funcion fgets(): ");
-    fgets(nameC, 50, stdin);
+    fgets(nameC, 50, stdin);    // fgets(variable, size, where from stdin=keyboard) from string.h to get the string data.
 
     printf("El nombre es: ");
-    puts(nameC);
+    puts(nameC);                // puts() from stdio.h prints in console the string.
 
     size = strlen(nameC);
     printf("\nEl size de la cadena es: %i\n", size-1);
