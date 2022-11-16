@@ -12,7 +12,7 @@ void classChallenge() {
     char nameC[50];
     int size;
     printf("Ingregar nombre y obtener valor usando la funcion fgets(): ");
-    fgets(nameC, 50, stdin);
+    fgets(nameC, 50, stdin);    // get the string using fgets(variable, size, from where? stdin=keyboard)
 
     size = strlen(nameC);
     printf("\nEl size de la cadena es: %i\n", size-1);
