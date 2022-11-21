@@ -1,3 +1,6 @@
+// * -> Operador de INDIRECCION.
+// & -> Operador de DIRECCION.
+
 #include <stdio.h>
 #include <stdlib.h>
 
